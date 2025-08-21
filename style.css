@@ -1,0 +1,22 @@
+body{
+    background-color: darkcyan;
+    color: beige;
+}
+section{
+    background-color: aquamarine;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texo{
+    margin-right: 40px;
+}
+img{
+    height: 200px;
+}
+.chamada-video{
+ display: flex;
+ overflow-x: auto;
+ gap: 10px;
+}
